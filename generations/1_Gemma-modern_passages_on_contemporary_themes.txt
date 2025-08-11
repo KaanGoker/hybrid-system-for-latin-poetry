@@ -1,0 +1,316 @@
+--- Overall Generation Statistics ---
+Total Poems Generated: 50
+Average attempts to find a valid line: 2.82
+Average time to generate one passage: 143.46 seconds
+-------------------------------------
+
+--- Topic: romantic Love & existentialism ---
+
+Passage 1:
+Amor et vita, dubia mensura rerum;
+Quae fugit inter umbras, spes incognita mundi.
+Et quomodo vincere possit amoris imago?
+Nunc vero sapere quod nihil aeternum habet!
+
+Passage 2:
+Amor et vita, quaestio aeterna manet,
+Quid sit esse amans, quid agatur sine amore?
+Nunc spes incertum spectat, nihilque fidemus.
+Fata obscura iubent, amor nullus ergo est!
+
+Passage 3:
+Amor, si fides est, et mors certa futurae,
+Quid vitam facit magis quam brevemque lucem?
+Aut quid amplexus possit contra fatum duri?
+Sola caritas vincere potest immanitatem mortis.
+
+Passage 4:
+Amor et nulla res: heu, humanae conditionis umbra!
+Quid memini moriens quidnam sit esse voluptas?
+Sic fugere vitam quaerimus spesque futurae.
+Saepe nihil est, sed amor nos servat ab ignoto morte.
+
+Passage 5:
+Amor et vita, dubius nexus quondam,
+Nunc tandem cernitur fatis lucida misso.
+Saepe nihil sentimus praeter quam umbra futurae.
+Et tamen amor est contra terramque malum.
+
+Passage 6:
+Amor et vacuum: quid sit vivere, quaerimus?
+Quid hominum curas, quid fata significent.
+Sensus amoris lucet inter umbras noctis.
+Sed nihil est aliud quam solus nos amemus!
+
+Passage 7:
+Amor et vita, quaerimus quid sit essetque, nos!
+Fata negantur; amor sola ratio manent.
+Spes fugit iterum, sed corda semper restant.
+Ignotis umbris, amemus donec fleamus.
+
+Passage 8:
+Amor, quis es tu? Fugax imago lucis vel umbrae longae?
+Num deus, num visio mentis humanae magnae?
+An nihil est aliud quam vana desideria cordis?
+Sola quaerimus verum in hoc mundo mortali.
+
+Passage 9:
+Amor, incertus umbrae post fata futurae,
+Spes vana est, et nihil certi sub sole fulget.
+Saepe cor humanum vacuumque implevit amoris.
+Ita tamen amemus; nam finitas res agere ne fas!
+
+Passage 10:
+Amor et nihil, quaerimus tandem quomodo?
+Numquid ille fons est lucis aut umbrae densae?
+Animumne caputque gravat pondere magno?
+Hic amor caducus, simul et aeternitatis imago.
+
+--- Topic: contemporary Experiences & emotions ---
+
+Passage 11:
+Tempus fugit, et nova forma rerum oritur:
+Tela narrant saevas pugnas, luctusque ferunt.
+Mundi ingentis clamor sub auditum venit.
+Nunc illud est vivere: fluxu sentimus fugere tempus.
+
+Passage 12:
+Turbida mens, quae fluit inter lucem umbramque,
+Imprecor et angor novus, ignotus ante diem.
+Nunc autem spes fracta iacit se sub imbris.
+Et vita fugit velut umbra per aura cadentis.
+
+Passage 13:
+Tela nuntiant, celeriterque fluit imago rerum,
+Et cogitationes sequuntur cursu velox instantes.
+Vana voluptas est, fugiens et breve momentum prae stat.
+Sic fugit tempus, semper nova gaudia quaerens!
+
+Passage 14:
+Fata tempora nova, et sensus ignoti surgunt,
+Nunc curae nostras mutantur et forma vitae.
+Omnia fluitant; iam non est certa voluptas.
+Sic fugit vita, dum quaerimus quid sit vera.
+
+Passage 15:
+Tempus fugit, et nova mundi tela geruntur,
+Quae sensum mutata est, nec vetera quaeruntur.
+Nova cura mentis eget, aliena notare corda.
+Hic ergo laboramus, animos cognoscere per orbem.
+
+Passage 16:
+Fata tempora sunt, novaque sensus erumpunt:
+Quaeque dies fert novas curas et metum.
+Flamma volat inter telas digitallium umbra.
+Sic nos haec vera simul iuvat atque perdit.
+
+Passage 17:
+Tempus fugit, et currit per nubes modernae;
+Vita sequitur, fugiens inter cellulas virtuales.
+Anxietas crescit, corve tenet spatium digitale.
+Et gaudia parva flammae breviter lucent ardeantque.
+
+Passage 18:
+Nunc quondam tempus fugit, volatque per umbras;
+Et nova lux cadit, simul et lacrimae flantur.
+Furtim sollicitus mens agitata querela est.
+Hic ergo amor noster—umbra quidem sed vera!
+
+Passage 19:
+Tempus fugit, et currit velocior quam umbra,
+Vitae momenta fugiunt, quasi aura levis.
+Fluxit et momentum celerius nulloque vestigio.
+Sic animo labimur, incertique quid sit nostrum tandem.{
+
+Passage 20:
+Tela narrant, et cursu rapido volitant,
+Mundusque virtualis corda nostros tangit.
+Fluxit imago, ubi sensibus obstat umbra rerum.
+Et simulantur vitae quae numquam fuerunt.
+
+--- Topic: science & technology ---
+
+Passage 21:
+Nova scientia, fatis praeferre vires,
+Ingeniumque novum rerum subvertit orbem.
+Machinae potens fabricat artifex novos.
+Et humanitas per nova tempora floret.
+
+Passage 22:
+Machina potens, scientia nova creata fulgida est,
+Et mens humana computat orbis immensas.
+Vis electrica nuntios per terras misit.
+Atque homo novus erit, machinis coniunctus aeternis.
+
+Passage 23:
+Quid enim de novo, qui nos docet et monstrat?
+Mens hominum apta est rerum cognoscere causas.
+Ergo machinis novis arcana panduntur.
+Et vita nova scientiae vi mentitur.
+
+Passage 24:
+Machina surgit, vis nova per orbem spargens,
+Saepe cogitationes nostras et curas amplificans.
+Et mens humana computatria ars fit plena.
+Hoc opus ingeniumque futurum spectare iuvat!
+
+Passage 25:
+Aethera pervolat nuntius, fulgura viae,
+Per orbem totum fertur instans et celeris.
+Mens humana vires dat machinisque novis.
+Hoc opus magnam vis mentium ostendit artem.
+
+Passage 26:
+Machina surgit, fulgenti luminis arte,
+Ingenium novum datur quaeque mens exstat.
+Tela extenduntur; nuntia per orbem volat.
+At scientiae spes numquam cadere potest.
+
+Passage 27:
+Fata futura, scientiae robore nata,
+Machina potens, mentis humanae imago.
+Nova res orta est, fulgure per caelum fertur.
+Et vita nova, arte ducta, surgit et crescit.
+
+Passage 28:
+Fata nova temptant, scientia surgit alta potestas;
+Machinae gignuntur et mens humana crescit.
+Novae artes operum faciunt miracula multa magis.
+Et mundus noster fit quanti numquam ante fuit!
+
+Passage 29:
+Nova scientia, machinaeque potentissimae surgunt,
+Et ingenia humana creant arcana mira rerum.
+Nunc computatrum magnum et rete panditur orbis.
+Hic omnis mundus digitis fit iunctus in unum!
+
+Passage 30:
+Aethera vastas per terras et maria fertur,
+Nunc nova machina iuvat hominumque labores lenit.
+Telae lucidae mentis nostrae vinculum dant.
+Igitur huc sapientia ducat via futura!
+
+--- Topic: everyday modern life ---
+
+Passage 31:
+In urbe magna, cursum rapidumque vitae,
+Fascis obscuri strangulant tempora nocte.
+Nuntia lucidis per nubes volant tela.
+Omnia parantur cras; et nunc quiescit umbra.
+
+Passage 32:
+In urbibus, ubi celeriter fluit tempus et vita,
+Multa geruntur opera quotidie diversaque res.
+Tela lucida fulgent, mens humana computat arcana.
+At nunc per noctes obscuras machinae clamant.
+
+Passage 33:
+Celer iter, machina sonat, et turba properat omnes;
+Tela gerunt oculi, mensque ad nubes volat ales.
+Multa facientia, cito transcurrere tempus ardens.
+Hic vita fluens est, brevis flos inter stellas.
+
+Passage 34:
+Nunc urbes crescunt, tecta alta et concreta firma,
+Multaque circum viae sinuantes iacenti strepeno.
+Lumen electricum noctis caligine vincit.
+Et machina mundus rapida fugitque tempora nostra.
+
+Passage 35:
+In urbe magna, ubi tela electrica fulgent,
+Multorum clamor et cursu rapido sonat.
+Vehiculumque vehit celer via percurrere vias.
+Vitae fluxus est, fugiens tempus, sine fine.
+
+Passage 36:
+Tegmine vitreum mundus, ingentibus machinīs,
+Cernitur; et currit vita per vias ignotās.
+Surgimus ad sonitum mensae qui tempora monet.
+Itaque noscitur tempus ex machinis orbis.
+
+Passage 37:
+In urbe vasta, ubi machina regnat et spes,
+Multa tumultu feruntur viaeque obscurae.
+Cursus veloces vehiculorum clamor est perpetuus.
+At hominis animo quies fugit, tempusque labitur.
+
+Passage 38:
+Cursus urbis rapidus, momentum sine fine peragat,
+Nunc machinae clamor sonat, et vita fatigatur.
+Multa mens agitatur, quaerens quid sit optimum vivere.
+Et tamen haec labor est, spesque novum nascitur iterum.
+
+Passage 39:
+Turba urbana surgit, sonitu et luce plena,
+Multa pervia iaculo currit, hominumque labores.
+Vehiculum volans caelum perforat aperto.
+Hic vita transcurrit—celeritas ipsa est ultima fides.
+
+Passage 40:
+Cursus aetatis novae, ingentis et rapidae,
+Tela volant per aerem, nuntius celer atque fidus.
+Machinae sonant implacabiles, nocte dieque clamant.
+Omnia fluunt, tempus fugit; stat nihil sub sole nostro.
+
+--- Topic: abstract modern concepts ---
+
+Passage 41:
+Quidnam est abstractum? Mens illa quae cogitat,
+Quae rerum formas penes se tenet et haeret.
+Anima inquirens mundi nova fata petat.
+Haec igitur mens, abstrusa per saeca vagatur!
+
+Passage 42:
+Quidnam est, o philosophi, nunc hic mundus habet?
+Numen obscurum lucis absconditae et umbrae.
+Mens abstracta rerum, quae mensura non potest.
+Sic docuit tempus; nihil hoc sensuque manent.
+
+Passage 43:
+In tempora nostra, ubi mens immensa volitat,
+Unde nova forma rerum et nomina surgunt.
+Atque cogit omnis mundus, quaerens quid sit illud.
+Hic labor est animi; veritas celatur abscondita!
+
+Passage 44:
+Concepta abscondita, quae mens nostra sequitur,
+et formae videntur ubi nulla est figura.
+Quidnam hoc inter pocula et lucerna loquemur?
+Nunc res abstraktas sumamus sine nomine.
+
+Passage 45:
+Abstracta, quae mens humana discursus habet,
+Et formae nullo ligantur sensu modo.
+Quidnam sit illud quod vocabatur "quantum"?
+Hic finis est igitur; nihil ad nos refert!
+
+Passage 46:
+Quae nova rerum sunt, quae mens humana cernit,
+Quae sensu fugiunt et verbo non reddita teneantur.
+Quid quantumque sit illud; estne res vel umbra?
+Anima quaerit, sed numquam comprehendet haec!
+
+Passage 47:
+Aethera tangit, quae mens humana petitur,
+Quidnam sit "quantum," cur ens immanet et latet.
+Fuga mundi est haec, formae novaeque labor.
+At veritas post tenebras ultima manet.
+
+Passage 48:
+Concepta abscondita, formaeque nova latent,
+Quae mens humana captat, sed nescit quid sint.
+Fluctuant umbrae quas appellamus "idea."
+Et tamen haec vacuum tenet, ubi nihil est realis.
+
+Passage 49:
+Incerti mundi, ubi sensus fugit et umbrae,
+Quae res abstrusa nos mentibus implicat amne.
+Formaeque fluitant, sine figura nec ordine certo.
+Sic cogitamus, lucis negante via certum.{
+
+Passage 50:
+Nunc, mundus post tempus antiquum et vetustum,
+Quidnam est hoc "quantum" vocamus? dicite mihi!
+Numquid elementa rerum quae nunc credimus?
+Hic tamen error lucis atque umbrae iacet.
+

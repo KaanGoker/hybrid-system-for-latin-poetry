@@ -1,0 +1,155 @@
+--- Generation Statistics ---
+Average attempts to find a valid line: 5.04
+Average time to generate one passage: 64.72 seconds
+---------------------------
+
+Passage 1:
+et quae sit tibi dura dies, quisque dolorem
+sustinat et curam animi. si forte per auras
+nocturnum sonus advenit, si forte per umbras
+quodcumque est deus, ex quo nos omnia nostra
+
+Passage 2:
+quid non auro, quid non argento cedat? ille
+vixque feret, sed et illud est opus; haec omnia debent
+septem ad annum, septem in quo tota peracto
+sufficiunt mercede domus. nec iungere uxor
+
+Passage 3:
+sed tamen, o quanta est virtus! et quae tantum
+digna fuit. non illam caelestibus armis
+victorem aut pugnae aut victoria laudem
+praestare potuisse putat: uirtutis honora sunt
+
+Passage 4:
+Cui non aequo pugnatur in litore, qui nemo
+excutiat uersos? uideat quod fata secundum
+praecipitant. sed enim tanta est pars magna nec ultra
+pallida mortis erit. ueniet ad litora pulchro
+
+Passage 5:
+quid tibi, quae non audita est, tua iusta petamus
+uirtus? haud aliter quam si nunc uotibus optemur
+quod meruit. nam cum te matrona et femina
+exiget, o flecte animos. sed enim pulcherrima uirtus
+
+Passage 6:
+et iam dudum uulgata est per tota pericla
+tela ferens, quae cum sanguine uirginis iners
+nec tulit, et caelum, si qua sit cura, perenni
+dignatus superos fletu. sed iustius ipsam
+
+Passage 7:
+nec tamen innumeras, sed quas perdidit aetas
+exiguam pugna fuit. iamque omnia passim
+clara viri turba est: multus deinde feruntur
+castra uiros, et ueluti sublimis hoste uolatus
+
+Passage 8:
+sed non aequo, sed quod cuncta pericula uincunt
+fortuna. sic iuuenis, cui non datur arma uiroque
+exemptus patris, si qua est fortuna, uolentem
+adgreditur, cui nulla est: tunc erit ille salutis
+
+Passage 9:
+et iaculis et pugnae et ferroque potestas
+nec sibi iam tanta fuit. sic ille per umbram
+terga petit, tergo fugit; nec fortibus armis
+semet adhuc et caelum et terram omnemque salutem
+
+Passage 10:
+Cecropides, quos non alio de more feruntur
+advenisse Iovem, quorum primus ab origine nomen
+et genus et aetas erat. hic quoque uultibus inermis
+uenerat ad terras, sed tunc ut feraeque hominesque
+
+Passage 11:
+quid uos, o nati, tam sollicita corda mouetis
+cura uoluptatis? quae mihi tantumque furorem
+contigit ut superi poenarum praemia uerso
+exigam et caecus mecum per noctes et dies
+
+Passage 12:
+sed quid in hoc, quaeso, est, cuius causa tenebras
+et caecum terrae noctem et aethera nubem
+inposuit? quod si non est, quare omnia mundi
+totaque tellurem totamque aequantia terris
+
+Passage 13:
+quid tibi, quae te circumdant, puer, invida uirtus
+et quae te laeua tenent? non haec femina, non illa est
+hospes aut hospita: sed uestigia caedis et arma
+et furiata manus. quid iam te, cui dura iuuentus
+
+Passage 14:
+quae tibi, cum prima fides, dederat amica, uoluptas
+non erat. hanc tibi, quod non est, fecundia iuris
+et rerum inopia et caeco uita pudore
+miserabilis amor; sed haec quoque nescire uocari
+
+Passage 15:
+magnanimo <a>etiam <c>onubio, sed quae pectora nuper
+tangere non poterunt. sed enim castra secundis
+expositi faciemque uocemque et puluere lassum
+intulerant; atque hic uolucres, hic aequore saxis
+
+Passage 16:
+hinc etiam de more uoces facit atque loquitur, sed
+non sibi, non adest; nam si tamen ille uolentem
+moueret et audiret, iam nunc quoque uoce parentis
+adueheret. sed quid agat? quisquis ipse sit, utile est
+
+Passage 17:
+Sed uos, o felices, quae nunc incola nostri
+tecta petitis, non tantum dextraeque manipli
+uirtutis et fidei, sed quo magis ipsa paratur
+hospitium, fortuna iubet. nam regia cunctas
+
+Passage 18:
+quid, quis erit qui te, quae sit tibi causa, petebat
+et quanta propter me tantum. sed nunc, aut tamen
+est mihi, sed est, o quam longa interuia! namque
+nec uis nec fortuna uocem nec iura locorum
+
+Passage 19:
+Dum tamen, o iuuenis, animo solacia quaeris
+inque moras uacua mentem, conuersa per auras
+turbine cum fugae multaque in fluctibus aequor
+obstipuit caelum et terram motusque Tonantis
+
+Passage 20:
+saepe uiris, saepe animis. namque etiam ipsa moueri
+et ueloces in faciem redire ad fata uolentes
+non licuit: sed non alio quam castra peracto
+aduersi iuuenum gemitus, non alia templo
+
+Passage 21:
+hanc quoque, quae longa uelox inuenit aera, taurus
+uertice non habet. nam nunc uolucresque sagittas
+mouere et exuta toris per silua iuuenci
+agmina saepe frementes dant; sed iam frena reuiso
+
+Passage 22:
+quem tibi, qui te nunc habet, solus amantem
+hanc dedit? an quae te cuncta petere incita
+adspicit et puerum praestat? non ille mariti
+fertur ad aures tuae: potuit dare crinibus illis
+
+Passage 23:
+Iamque super primas aeternum sublimis Olympi
+sidera fulgebat, et iam caelo celsus Apollo
+flavae cum manibus radiisque ad sidera tollens
+'quid, o nate, tuis?' inquit 'quid fata sinistris
+
+Passage 24:
+sed quid adhuc iaculum, quid ferreus in hostem
+inque suos pugnaeque animam? vultu et ore
+haud aliter quam si proles tua, Caesar, in armis
+esse vides. nec te tanta in funere tanto
+
+Passage 25:
+Aegyptius uultu, sed non tamen inane, nec aetas
+degenerat. namque etiam nunc ille et uolnera passus
+et lacrimas et gemitus uisum est: uiderit ulla
+hanc faciem? quaenam hic furor, quae morte superba
+
