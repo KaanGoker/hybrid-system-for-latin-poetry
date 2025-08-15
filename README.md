@@ -2,9 +2,6 @@
 
 # A Hybrid Post-Hoc Feedback Framework for Latin Dactylic Hexameter
 
-This repository contains the code and resources for the master's thesis, "A Hybrid Post Hoc Feedback Framework for Latin Dactylic Hexameter: Experiments with Transformer Models on Contemporary Themes."
-
-**Abstract**
 This research investigates the challenge of generating metrically correct Latin dactylic hexameter on contemporary themes using modern transformer models. The core of this research is a hybrid system that combines the creative potential of fine-tuned Large Language Models (LLMs) with the formal rigor of a symbolic, rule-based validator.
 
 A series of experiments were conducted across several models from the Llama and Gemma families. These models were fine-tuned on four custom datasets, each designed for a specific purpose: V1/V2 established a baseline with core classical authors and tested the use of special tokens; V3 expanded the corpus with more authors to improve generalization; and V4 introduced synthetically generated poems on modern topics to adapt an instruction-tuned model for contemporary themes. The generation process uses an iterative feedback loop: the LLM generates a line of poetry, which is then validated for metrical correctness by the Classical Language Toolkit (CLTK). If a line fails validation, it is discarded and regenerated.
