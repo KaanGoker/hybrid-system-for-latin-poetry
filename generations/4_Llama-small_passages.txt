@@ -1,0 +1,155 @@
+--- Generation Statistics ---
+Average attempts to find a valid line: 5.69
+Average time to generate one passage: 75.50 seconds
+---------------------------
+
+Passage 1:
+tectis equos tibi, Cinyra, sacerdosque
+cuncta et divina summa Iovis aera tecta
+expono. veniet, veniet, sic enim ordine curae
+sustinuetur. pater ipse veniet; nomenque tuum
+
+Passage 2:
+'summa est in medio, summoque in summa sedes
+Hesperius, et non invenit quamvis omnia per auras
+sola Iove vacua sit; sedes hic sollemnis Olympi
+et domus inmensi caeli sedesque deorum
+
+Passage 3:
+'Proveniunt adnixi, quos te, nate, videre
+vulnere praestas, Ithaca, saepe labentes
+nec tamen haec posse mori. te pietate paternaque
+iustitia coniunctos adfususque parentem
+
+Passage 4:
+'Quo, quid, quae, quis fuerit, dubitas? inquisieris
+ipse mei. sic te tibi faciam, ut omnes
+esse videaris, si quis te quisque reponat
+et, si quis te, si quis te, si quis te, si quis
+
+Passage 5:
+'Quid enim nos, si non coniuncta ferarumque
+cincta nox, sine luce vides? at non vides
+inceptum et summa deus est, quem nulla pudorem
+solvit, et iamque est; faciem quoque respice nostra
+
+Passage 6:
+'si non esset, non essent, nec vos, o miserere, videret
+nec me! quem si me, si non vos, si nemo videt
+nec me, iam satis est: morior mea facunda loquenti
+carmine! sed non possunt viva loqui carmina
+
+Passage 7:
+'Quisquis erit, tantum est, ut sit mortale corpus
+cum vivis vivit, atque ita vivit, ut vivat
+perque omnem vitam, cum vivit, eritque repente
+in mortem; nec corpus moritur, nec corpora moritura
+
+Passage 8:
+'si non essem, pater, si non esset in illo
+forte mei, non pater, mihi, quod est, esset
+sensitum; si non esset, mihi, quod est, esset
+pater: quae, si non esset, mihi, quod est, esset
+
+Passage 9:
+'summe ego non erubui, non est qui me rumpat amicum
+sive adhuc non esset, sive si fuerit iniquus, ille
+quae sit, non ego non sciam. tua si quaeris auctor
+quae sit, ad me te referas, nate, tuaque ego
+
+Passage 10:
+'Palaestrae, quamquam sine mea cura et frater
+nec tibi cura mei, tamen ipsa tamen
+tuta tibi est: non tibi, sed tibi tuta meorum est
+una fides. nunc sine te, nunc tibi solacia mea
+
+Passage 11:
+'Pisces, quamvis longe, tamen, in parte tua est
+Aethiopia, tenuemque tuum nubilus in aequor
+lumen exigit, nec te, si forte, quicquam, esse
+quamquam invenias, scitamur esse tuumque
+
+Passage 12:
+'Perferre hanc dedit mecum sublimis Aethiops
+fata deum, qui, cum non essent quicquam in illo
+vita viresque sua, terras subvertit in auras
+et caelumque petivit. nomenque patrumque
+
+Passage 13:
+'summa loquar: ad sollicita veste venit
+temporaque, ut pueri, pueris, ut femina femina
+inveniunt. pueris dextram dextroque tenent
+pugnantemque manus, femina dextroque tenent
+
+Passage 14:
+'si credis aequo summasque ad sidera tollis
+Iuppiter ille vides, qui, cum stellaeque sequuntur
+in caelum volitant, non aequo totidemque
+stellas et totidem volent, est aequora vidi
+
+Passage 15:
+sustinet et longa per totum tendit in aevum
+fataque poscit. hic subito est in corpore virgo
+ante oculosque manusque manusque ad moresque
+et verba et facies et corporis omnia formae
+
+Passage 16:
+'Non, quid enim? quid enim? cur, quae semper, anile
+et puerum et virginitate timentem, iniqua
+coniugio servat? quae neque iam iamque viri
+sustinet, in praeterita est: est illa virgo
+
+Passage 17:
+Iamque utinam, si mea non esset, videres
+quid sint in te, quod noster sit, et quae te, quaeque
+sint, quaeque deus, et quid deus sit, et quae sit
+deus: non hoc aequum est; nec quod aequum est, odisse
+
+Passage 18:
+Pandionea mater, quae quondam nomine Cymodoce
+esse solet, tamen Iunonem vocatur, ad undam
+iactabat nati per auras, et saepe recens
+contigit in silvis, inquisitaeque per undas
+
+Passage 19:
+'summa deae est, quam sine voce vocare deae
+dicta timent. namque ubi non est vox, ubi non est
+vox, ubi non est vox, ubi non est vox, ibi est
+deus. hanc quoque vocatam deam vocatique vocantem
+
+Passage 20:
+'Fama est, si non audirem, quanta pia natus
+Dardaniae quondam fuerit pietate, paterque
+Aeneas, deinde quanta quondam pietate
+Ascanius: pia tantum est, quod nata sorores
+
+Passage 21:
+Hic ubi citharam dederat, 'dicite, perque deorum
+quae sit ars' ait; vocatque in limine dextrae
+aemulae virgine, quae cura est ars, et iussit
+adspicere, iussitque manus, iussitque videri
+
+Passage 22:
+Dexterae quaeque incurrunt pectoribus alae
+et pennis supera volant, quamvis inane videantur
+crescere, crescit; nec non inluminat ignis
+omnia; quae si forte manus humana caputque
+
+Passage 23:
+Haud aliter laeva tenusque dehiscere terrae
+cuspide pressumque ad sidera tollere caelum
+esse potest, sic posse videt caelique peti
+invidia est. at non tam caelum caelique peti
+
+Passage 24:
+Poenicea regina soror est, sororique sororis
+exspectata est: coniugiumque et coniuge natus
+est; nec iam quicquam nisi coniugia coniugis
+fuit, quod coniugio coniugis coniugia coniugis
+
+Passage 25:
+'Pallor et tectum caelum et terramque sinit
+percutit, et vultus etiam vestigia vultus
+perdurat, et sonituque sonantia vertice concha
+terrentur; inridet per terga caelum et orbem
+

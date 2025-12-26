@@ -1,0 +1,305 @@
+--- Generation Statistics ---
+Average attempts to find a valid line: 3.19
+Average time to generate one passage: 38.59 seconds
+---------------------------
+
+Passage 1:
+iamque omnis in caelo perlustratur ab ipso,
+ut quae sit illa via qua fata rediturus eadem.
+nec videtur ulla nisi quo praeceps incipiat orbis;
+quae si non solida est (et nulla haec solidior), quid erit?
+
+Passage 2:
+Ecce ubi, dum solus ad flumen incola tendit
+et latebat nullo populo nec tectis usquam,
+adspicit ex alto subeuntem undique silvas
+magnanimumque ferox ductor Thrasimede.
+
+Passage 3:
+'quid faciam? cum te, quod non potui mecum,
+abducam. et si mihi fata sinunt in illis
+inque tuo vivere domo: nam periculum est utrumne
+sint animi nostri satis fortia viresve;
+
+Passage 4:
+'Non aliud erat, ubi domus et turris alta fuit.
+haec ego cernens adfuit mecum; nec mihi quicquam est,
+si non habebo quidquid tum demoratum abest.'
+sic ait: expletaque deum magno clamore precatur.
+
+Passage 5:
+et sic in omnes, quos natura adegit oris.
+iamque ego tecum iucunde et commoda loquor:
+sed nunc hos animos quibus est uana gloriae cura
+inclusimus acies; non enim modo certamen armorum
+
+Passage 6:
+iamque ubi percussa ruinas, proxima tectis,
+adspicit aetheream lucem et nubila caeli.
+'o deus,' exclamat 'quae me fortuna traxit?
+quaerisne ad manes iterum mihi praeparas?'
+
+Passage 7:
+quodque domus et tecta deum, quod sacra fana dicentur.
+cum tibi tanta viri sit vis in corpore nostro?
+nonne tu cum facias hoc ipsum a te petimus: ut possis?'
+'est,' ait 'hoc quoque posset velle aliquid mihi.'
+
+Passage 8:
+Nunc ego et meum, quod fuit ante oculos omnes,
+dico. Iuppiter ipse mihi dedit: non alius ullus
+haec vidisse potest quam vos qui vestra quoque
+perlegitis nostraque legere soliti estis; nec ulli
+
+Passage 9:
+quae deus non fecit? nec te, quicumque nefas effecisti,
+nec me miserum iacuit in medio. sed cuncta ruunt:
+attonitae sunt domus et tectis haerentibus orantur;
+non aliter quam tunc cum regnum Iovis Olympo
+
+Passage 10:
+et non in corpore, sed quod vultus ad auras
+mitit et exstincta trahit. namque illa manent:
+nec quicquam est praeter illud periturae mortis;
+quod cum deducas sensum atque animamque sequaris,
+
+Passage 11:
+'Si quid mea carmina possunt, quoque sit amica nobis;
+atque ego nunc etiam tuos et tua praemia poscam.
+quid enim est quod non faciat amor? ipse dedit armis
+praecordia nostra viri: quo modo tamen illa movet!—
+
+Passage 12:
+'Hic est, si quaestio fuerit: hunc adsumite. Quid enim?
+hominis hoc tempore nobis esse potestas?'
+adicitur et quodam modo percurrit omnia verba;
+tum se quisque refert atque in sua sententia versatur.'
+
+Passage 13:
+Sed neque ipse adeo, ut iam non sit digna fari.
+Eheu! si modo tantum de morte rogaremur:
+numque ego in hoc iaceam? num mihi tantae molis
+constructus labor est? quid moriar? cur ita tandem
+
+Passage 14:
+Sed neque in tantum praesens fortuna timendus,
+neque ulli nocet. Nam si non modo igne et ferro,
+sed ne carne quidem possunt occidere deos,
+cur me metuant? Nec potuit Iuppiter ipse nec posset
+
+Passage 15:
+Atque utinam, quod est in tanto corpore magnum,
+non sit tam durum; nam quicquid contigit illi
+aestus et hiems fecit. nec non tibi mecum iungebatur
+si quando videres curvo decurrere sulco:
+
+Passage 16:
+quid non mortali pectore est contenta fati!
+sed nunc peractis adeo iam rebus, inque toto mundo
+non ulla nobis erit causa belli. tu quoque laborem
+desine et arma; cessa, precor: nam cum proelia tantae
+
+Passage 17:
+quam tecum, quaeque ego de te saepe referam:
+nam quidquid in vita est vitium vel praemia laudi,
+est tibi. utinam possem tanta contingere!
+tu mihi quod potes facias; et si possis, esto meae
+
+Passage 18:
+'O fortunatam natam me consule Romam!
+quam te, cum satis esset magno turbari bello,
+Armeniis bellum addas novaeque gentibus?
+quid non mortalia pectora cogat amor!'
+
+Passage 19:
+Sic erat interea, cum sub nocte latente tenebris
+in media urbe furor populi tumultuque virum
+concussaeque domus et concussis uxoribus aegri
+flebantur gemitus. iam consurgere iussa est
+
+Passage 20:
+Inque ipso nefas est, ut non credas in illo.
+At mihi nunc primum cernis pericula tanti:
+at si tu quoque animos praeterire parasti,
+nunc ego me morientem sequar et prosequor ab alto.'
+
+Passage 21:
+Atque ea si iusta est, quoniam me persequeris ad mortem;
+sed cum te quaero et non reperio, quid facis?
+quid autem in domum tibi venit scelus exiliumve?
+nonne ego sum qui dedit illa mihi munera?
+
+Passage 22:
+Nec ulla est via, quibus non sit locus anguis aut araneis.
+atque ego iam saevus et crudelis in omnia iaceo;
+neve alius umquam tantam miseratus habet!
+hoc modo per totum iter mecum adduci potes?
+
+Passage 23:
+Aequo pectore quondam pugnabat et alto,
+quod superatis iam fessus adflabat ab oris.
+nec tamen ante diem totum consumpserat actum;
+iamque ferox inermes hostes rapere voluit:
+
+Passage 24:
+Haud dubium, sed et mihi nunc tecum utere verbo.
+quid me miseriorem facias? non ille tuus hospes 
+est miserior nec minor; nam cumque adire coeperit
+pectora mortalis leti perculsus amore,
+
+Passage 25:
+'Nec tibi, nec mihi haec est cura: quod enim iudicet ista?
+non ego. 'namque omnis curam et regni potestas
+est superis; quae nos agemus? quidquid imperat ille.'
+tum pater omnipotens deus hoc praecepit olim:
+
+Passage 26:
+iamque domum properant: sed neque iter est, aut ulla viae.
+nulla manus nullique pedes nec frigus ullus inhiat;
+inuitata iacere coepit densissima quies
+et lues exangui cordis et languida mors.
+
+Passage 27:
+'At tibi quae sit causa, quidquid est quod optas
+haud facile dicam; sed hoc te moneo: tuentur arces
+regia iura deum. noli superare leges.'
+tum mihi 'atqui ego regnum cum coniuge capiam?
+
+Passage 28:
+Iuuenal, quippe cum nullus sit tibi modus illeci:
+namque etiam tecum ludit atque eodem omnia facis.
+iam non est locus ueniat et si quid dicat amica?
+nonne tuam inquit illic iam praeside Catullum;
+
+Passage 29:
+'O fortunatam natam me consule Romam! 
+si quid erit vetus, quod credas esse Iouis;
+quod si non ita est aut plus sit quam solebat:
+atque illud et hoc, quicunque es deorum numen.
+
+Passage 30:
+Quod si non fieri potest, ut nos incepta finiamus,
+quid est quod prohibeat? nec enim nobis illa iura sunt.
+invidere sibi quisque velit: quamquam et illis hoc placet;
+sed ne quid possit turpe ferre mei memoretur ipse.'
+
+Passage 31:
+Iamque ego, iam solus super est; nunc abeat ille!
+non modo me non perdat sed ipse se perdant.
+o frater adultere nefas et perfidia duplici,
+cui paternae domi tuae fidem adempta est?
+
+Passage 32:
+Audeamus: nec te decet, ubi tanta superest aetas.
+Nec mihi tam longa patiens est inopia mensurae;
+non ego me tibi commendo, sed tempus illi
+quod dederis: nam si tuis esse putes amorem,
+
+Passage 33:
+'Sed ego, quaeque uiro meo praecipue dicenda sunt,
+dicam. ut enim tibi satis sit haustis aquae potum:
+iam nunc et inuitus ipse animos aduersa secat;
+et si non magno discrimine iam moriar, ecce mihi
+
+Passage 34:
+Haud aliter uates et prope seruata fideli,
+quam si cum gemitu trepidantis animae
+excutiat pectus lacrimisque affluat oris.
+iamque simul ac nuncium miserabilem audierunt
+
+Passage 35:
+Iuppiter haec cum dixisset, percussit ilia fulmine
+et caelo adflicto summisque in sidera misso.
+at pater Aeneas animam sub corpore toto
+inclusisse videns lacrimis exoptaverat ab alto:
+
+Passage 36:
+atque omnis in castra ducit. sed quoniam illi,
+quos fessis armorum lues et dura cohors
+insequitur, nullum est tuta fuga locum:
+ille etiam sese procul a corpore terram
+
+Passage 37:
+Sic dictis, ubi cuncti adfuerant omnesque diuinae
+proceres et iuuenes; ex ordine conatus unus
+aemulorum primus certamina soluit ab ictibus.
+iamque suae missos iam conspectum tenuis ora cerci
+
+Passage 38:
+quid tibi, quod magno mihi committis? utinam haec 
+nunc etiam non solum sententia tua sed facta sint!
+sed nihil est in te. nec me pudet dicere: nullus es tu;
+nullam rem nobis fecisti nisi quaerendum quid facias.'
+
+Passage 39:
+Quis non, O Thebas, magno memorabile bello?
+quid tibi reges famae carere potuere tantique
+virorum nec te laudasse poetae voluerint.
+Ipsa mihi vultus in mentem veniunt et ora virum:
+
+Passage 40:
+At vero, si deorum numine aliquid agitur et quod
+praesertim adest in rebus humanis fortuna dicitur,
+cumque omnis ordo rerum casus est ac per omnia fertur;
+si quis tamen ex hoc modo fati sententiam ducat, ut
+
+Passage 41:
+invidia, quod non est in te. nam et si vates
+et magus es (quod ego minime puto), tamen exire
+non possis de corpore: nec te poena sequetur;
+te iustitiae manes adimit abicebatque corpus.'
+
+Passage 42:
+'Nec tamen illa dies, nec tantum tibi fati
+numen est. non te mihi sola Venus abstulit:
+Iuppiter ipse fuit; et nos Iunonem exorsatæ.'
+hic primus adfatur sociis Aeneas utque priores
+
+Passage 43:
+atque haec omnia, quod potuit miserabilis ille
+fuerit in miserae coniunctionis ortus!
+non modo se totum cuncta permixturus arte
+exposcit orbis et domos atque aedes habet;
+
+Passage 44:
+Nec si fusa uirgo, nec tecum inlustris haeret;
+aut iugulo coeptas aut perrumpit aequora currus.
+nec tibi non paruae quicquam est dignitas umbrae:
+nam neque iam sero quamuis nunc et omnia tarda sunt.'
+
+Passage 45:
+Hic ubi percussis animam dedit adflataque flammis
+incensa est, cineres in aere ferrebat ille.
+Inde tulisse dicitur fusa sibi viscera ferro;
+nec tamen ignari fuerunt de morte parentum:
+
+Passage 46:
+'Sed neque in hac est fortuna, nec ulla quaerenda.
+O fortunatos nimium sua si bona norint!
+Auctorem hanc deinde tuam et patriam specta;
+tum nunc te quoque praeclara fama sequetur.'
+
+Passage 47:
+sed neque hic ulla est, quae possit digna fieri.
+nec non et tibi iam satis adfuit quodque situr:
+nequiquam enim temptas conuerso ordine membra;
+tota in uno sunt pulchra loco.' 'heu misera,' ait,
+
+Passage 48:
+'Dixerat, et non erat: totumque per agmina videtur
+surgere ex humo fumus. iam clamore secundo
+turbatur equorum numerus; multaque tela miscentem
+flumina fertis in auras densa nube feruntur,
+
+Passage 49:
+Agnus, et in te quaesita est spes ultima: tuque es
+nunc super omnia mea desiderantia; nam quodcum-
+que meo capitis fuerit fortuna iuvenci,
+quidve ferar ubi sitis egestas, quid deinde venturi
+
+Passage 50:
+'Aurea qui primus vitam, quaeque ad astra relatus
+est cum corpore suo per volitantia membra saevas
+fuit in aves deus; nunc etiam magno praesidio est:
+nam caelum et terras atque ipsa domina rerum
+
